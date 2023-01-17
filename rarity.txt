@@ -1,0 +1,194 @@
+
+> hashlips_art_engine@1.1.1 rarity
+> node utils/rarity.js
+
+Trait type: Body 1
+{
+  trait: 'Black',
+  weight: '10',
+  occurrence: '41 in 1000 editions (4.10 %)'
+}
+{
+  trait: 'Blue Sapphire',
+  weight: '20',
+  occurrence: '72 in 1000 editions (7.20 %)'
+}
+{
+  trait: 'Coral',
+  weight: '50',
+  occurrence: '121 in 1000 editions (12.10 %)'
+}
+{
+  trait: 'Gold',
+  weight: '10',
+  occurrence: '45 in 1000 editions (4.50 %)'
+}
+{
+  trait: 'GrapeFruit',
+  weight: '20',
+  occurrence: '79 in 1000 editions (7.90 %)'
+}
+{
+  trait: 'Green',
+  weight: '50',
+  occurrence: '117 in 1000 editions (11.70 %)'
+}
+{
+  trait: 'Orange',
+  weight: '10',
+  occurrence: '38 in 1000 editions (3.80 %)'
+}
+{
+  trait: 'Pink',
+  weight: '20',
+  occurrence: '67 in 1000 editions (6.70 %)'
+}
+{
+  trait: 'Red',
+  weight: '50',
+  occurrence: '123 in 1000 editions (12.30 %)'
+}
+{
+  trait: 'SkyBlue',
+  weight: '50',
+  occurrence: '115 in 1000 editions (11.50 %)'
+}
+{
+  trait: 'Teal',
+  weight: '50',
+  occurrence: '115 in 1000 editions (11.50 %)'
+}
+{
+  trait: 'White',
+  weight: '20',
+  occurrence: '67 in 1000 editions (6.70 %)'
+}
+
+Trait type: Body 2
+{
+  trait: 'Black',
+  weight: '10',
+  occurrence: '34 in 1000 editions (3.40 %)'
+}
+{
+  trait: 'Blue Sapphire',
+  weight: '20',
+  occurrence: '55 in 1000 editions (5.50 %)'
+}
+{
+  trait: 'CatBrown',
+  weight: '50',
+  occurrence: '81 in 1000 editions (8.10 %)'
+}
+{
+  trait: 'Coral',
+  weight: '50',
+  occurrence: '89 in 1000 editions (8.90 %)'
+}
+{
+  trait: 'Daisy',
+  weight: '50',
+  occurrence: '72 in 1000 editions (7.20 %)'
+}
+{
+  trait: 'Gold',
+  weight: '10',
+  occurrence: '28 in 1000 editions (2.80 %)'
+}
+{
+  trait: 'GrapeFruit',
+  weight: '20',
+  occurrence: '49 in 1000 editions (4.90 %)'
+}
+{
+  trait: 'Green',
+  weight: '50',
+  occurrence: '70 in 1000 editions (7.00 %)'
+}
+{
+  trait: 'Magenta',
+  weight: '20',
+  occurrence: '55 in 1000 editions (5.50 %)'
+}
+{
+  trait: 'Navy',
+  weight: '20',
+  occurrence: '48 in 1000 editions (4.80 %)'
+}
+{
+  trait: 'Orange',
+  weight: '10',
+  occurrence: '33 in 1000 editions (3.30 %)'
+}
+{
+  trait: 'Pink',
+  weight: '20',
+  occurrence: '55 in 1000 editions (5.50 %)'
+}
+{
+  trait: 'Purple',
+  weight: '10',
+  occurrence: '28 in 1000 editions (2.80 %)'
+}
+{
+  trait: 'Red',
+  weight: '50',
+  occurrence: '74 in 1000 editions (7.40 %)'
+}
+{
+  trait: 'SkyBlue',
+  weight: '50',
+  occurrence: '90 in 1000 editions (9.00 %)'
+}
+{
+  trait: 'Teal',
+  weight: '50',
+  occurrence: '89 in 1000 editions (8.90 %)'
+}
+{
+  trait: 'White',
+  weight: '20',
+  occurrence: '50 in 1000 editions (5.00 %)'
+}
+
+Trait type: Skin 1
+{
+  trait: 'Glossy',
+  weight: '40',
+  occurrence: '452 in 1000 editions (45.20 %)'
+}
+{
+  trait: 'Matte',
+  weight: '60',
+  occurrence: '548 in 1000 editions (54.80 %)'
+}
+
+Trait type: Skin 2
+{
+  trait: 'Glossy',
+  weight: '40',
+  occurrence: '457 in 1000 editions (45.70 %)'
+}
+{
+  trait: 'Matte',
+  weight: '60',
+  occurrence: '543 in 1000 editions (54.30 %)'
+}
+
+Trait type: Crown
+{
+  trait: 'Gold',
+  weight: '10',
+  occurrence: '158 in 1000 editions (15.80 %)'
+}
+{
+  trait: 'None',
+  weight: '60',
+  occurrence: '497 in 1000 editions (49.70 %)'
+}
+{
+  trait: 'Silver',
+  weight: '30',
+  occurrence: '345 in 1000 editions (34.50 %)'
+}
+

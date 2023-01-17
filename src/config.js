@@ -5,9 +5,9 @@ const { NETWORK } = require(`${basePath}/constants/network.js`);
 const network = NETWORK.eth;
 
 // General metadata for Ethereum
-const namePrefix = "ShinyCats";
-const description = "<Cat Adoption> Name: Danho Cat Features: Big eyes, cute tail, firm hands Personality: Resolute but delicate We have always loved cats. Danho cats want to repay your kindness. Danhocats take care of themselves to take off your hands. Danhocat’s first words to its owner would be…\"Human, I feed myself.\"";
-const baseUri = "https://data.shinycats.com/images";
+const namePrefix = "ShiningNeko";
+const description = "None";
+const baseUri = "https://shiningneko.metatory.co.kr/images";
 
 const solanaMetadata = {
   symbol: "DANHO",

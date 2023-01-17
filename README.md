@@ -297,7 +297,7 @@ const gif = {
 To see the percentages of each attribute across your collection, run:
 
 ```sh
-npm run rarity
+npm run rarity > rarity.txt
 ```
 
 The output will look something like this:
